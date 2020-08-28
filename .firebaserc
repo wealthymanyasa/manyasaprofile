@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "manyasaprofile",
+    "staging": "manyasaprofile-c3597"
+  },
+  "targets": {
+    "apple-1a21f": {
+      "hosting": {
+        "manyasaprofile": [
+          "apple-1a21f"
+        ]
+      }
+    }
+  }
+}
